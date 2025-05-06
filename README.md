@@ -5,7 +5,7 @@ Players must complete a task or respond before the timer hits zero. Perfect for 
 
 ## 🔗 Demo
 
-[Play the Game] (https://countdown-game-alpha.vercel.app/)
+[Play the Game](https://countdown-game-alpha.vercel.app/)
 ![image](https://github.com/user-attachments/assets/5e2b85ff-6c60-4554-b3f4-245dacd009b0)
 
 ## 🎮 Game Overview
